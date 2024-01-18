@@ -8,7 +8,7 @@ is
     procedure cleanup_before_each;
 
     -- %test(foo test)
-    procedure ut_foo;
+    procedure ut_aged_brie_1_10;
 
 end ut_update_quality;
 /
